@@ -24,4 +24,8 @@ yarn lint
 请参阅[配置参考] （https://cli.vuejs.org/config/）。
 项目图片
 ![Image text]
-https://github.com/gao9575/python.git/1.jpg
+https://github.com/gao9575/python/blob/master/1.jpg
+https://github.com/gao9575/python/blob/master/2.jpg
+https://github.com/gao9575/python/blob/master/3.jpg
+https://github.com/gao9575/python/blob/master/4.jpg
+https://github.com/gao9575/python/blob/master/5.jpg
